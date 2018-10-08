@@ -13,3 +13,6 @@ spring:
     #service-url:
       #defaultZone: http://localhost:8761/eureka/
 env: dev11
+girl:
+  name: lili
+  age: 18
