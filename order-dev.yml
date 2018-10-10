@@ -14,5 +14,5 @@ spring:
       #defaultZone: http://localhost:8761/eureka/
 env: 22a22
 girl:
-  name: l11144
-  age: 192aaaaaa
+  name: ddda
+  age: 192aa
