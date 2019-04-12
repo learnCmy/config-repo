@@ -27,3 +27,6 @@ eureka:
     instance-id: ${spring.application.name}:${server.port} #指定实例id
 env:
   test: bb
+girl:
+  name: cmy
+  age: 123
