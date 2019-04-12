@@ -42,6 +42,6 @@ ribbon:
 env:
   test: bb
 girl:
-  name: cmy
+  name: cmyhs
   age: 1234567
 
