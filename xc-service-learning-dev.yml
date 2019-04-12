@@ -41,3 +41,7 @@ ribbon:
   ReadTimeout: 6000 #请求处理的超时时间
 env:
   test: bb
+girl:
+  name: cmy
+  age: 123
+
